@@ -2,7 +2,7 @@
 
 For the [Atom](https://atom.io/) editor. Forked from the [One Dark](https://github.com/nschneid/one-dark-syntax) theme. Changes the code text colors a bit.
 
-![vivid-syntax: Python example](python-example.png)
+![vivid-syntax: Python example](https://raw.githubusercontent.com/nschneid/vivid-syntax/master/python-example.png)
 
 ### Install
 
