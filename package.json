@@ -1,7 +1,7 @@
 {
   "name": "vivid-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A syntax theme based on One Dark, but with different colors",
   "keywords": [
     "dark",
